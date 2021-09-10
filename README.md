@@ -8,4 +8,4 @@
 [The "Watering switch" product.](https://www.linkedin.com/pulse/greenhouse-automation-watering-switch-product-denys-levchunets)
 
 ## Patenting part
-[Contribution as Lead engineer at "Radionix-MLT" LLC.](https://library.ukrpatent.org/get_pdf?zayavkanumber=u201904244&doctype=ou)
+[Contribution as Lead engineer at "Radionix-MLT" LLC.](https://base.uipv.org/searchINV/search.php?action=viewdetails&IdClaim=262014)
